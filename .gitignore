@@ -1,0 +1,7 @@
+# Ignore the pyenv directory.
+flask/*
+
+# Compiled python files.
+*.pyc
+
+.idea/

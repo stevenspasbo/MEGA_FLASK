@@ -1,0 +1,2 @@
+class HomepageTests():
+    pass
