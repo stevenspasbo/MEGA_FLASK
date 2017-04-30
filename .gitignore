@@ -5,3 +5,6 @@ flask/*
 *.pyc
 
 .idea/
+app/__pycache__/
+flask/
+static/
